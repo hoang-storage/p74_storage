@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Camo 901",
+    "path": "camo"
+  },
+  {
+    "name": "SPIDER - XT57",
+    "path": "spider"
+  },
+  {
+    "name": "DRAGON 076",
+    "path": "dragon",
+    "rewardRequire": 1
+  },
+  {
+    "name": "Tokyo Girl 6UT3",
+    "path": "tokyo_girl",
+    "rewardRequire": 1
+  },
+  {
+    "name": "Monster R623",
+    "path": "monster",
+    "rewardRequire": 1
+  },
+  {
+    "name": "Skull F07",
+    "path": "skull"
+  },
+  {
+    "name": "Witcher I87",
+    "path": "witcher",
+    "rewardRequire": 1
+  },
+  {
+    "name": "ICE 868",
+    "path": "ice"
+  },
+  {
+    "name": "SNAKE L6",
+    "path": "snake"
+  },
+  {
+    "name": "Black Panther 877",
+    "path": "black_panther",
+    "rewardRequire": 1
+  }
+]

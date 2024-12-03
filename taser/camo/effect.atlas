@@ -1,0 +1,27 @@
+
+effect.jpg
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+effect_1
+  rotate: false
+  xy: 2, 2
+  size: 424, 990
+  orig: 424, 990
+  offset: 0, 0
+  index: -1
+effect_2
+  rotate: false
+  xy: 854, 2
+  size: 424, 990
+  orig: 424, 990
+  offset: 0, 0
+  index: -1
+effect_3
+  rotate: false
+  xy: 428, 2
+  size: 424, 990
+  orig: 424, 990
+  offset: 0, 0
+  index: -1

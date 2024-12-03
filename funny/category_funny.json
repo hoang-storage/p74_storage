@@ -1,0 +1,236 @@
+[
+  {
+    "id": "air_horn",
+    "name": "Air Horn",
+    "thumb": "bg_category_air_horn.png",
+    "shadowColor": "#0A68C7",
+    "backgroundColor": "#75BAFF",
+    "rewardRequest": 0,
+    "order_index": 1
+  },
+  {
+    "id": "animal",
+    "name": "Animal",
+    "thumb": "bg_category_animal.png",
+    "shadowColor": "#D65728",
+    "backgroundColor": "#FF926A",
+    "rewardRequest": 0,
+    "order_index": 24
+  },
+  {
+    "id": "kid_cough",
+    "name": "Kid Cough",
+    "thumb": "bg_category_baby_cough.png",
+    "shadowColor": "#823AD5",
+    "backgroundColor": "#AA68F6",
+    "rewardRequest": 0,
+    "order_index": 19
+  },
+  {
+    "id": "kid_sneeze",
+    "name": "Kid Sneeze",
+    "thumb": "bg_category_baby_sneeze.png",
+    "shadowColor": "#0A68C7",
+    "backgroundColor": "#75BAFF",
+    "rewardRequest": 0,
+    "order_index": 9
+  },
+  {
+    "id": "breaking",
+    "name": "Breaking",
+    "thumb": "bg_category_breaking.png",
+    "shadowColor": "#D65728",
+    "backgroundColor": "#FF926A",
+    "rewardRequest": 0,
+    "order_index": 8
+  },
+  {
+    "id": "burp",
+    "name": "Funny Burp",
+    "thumb": "bg_category_burp.png",
+    "shadowColor": "#0D9E63",
+    "backgroundColor": "#81E583",
+    "rewardRequest": 0,
+    "order_index": 6
+  },
+  {
+    "id": "car_horn",
+    "name": "Car Horn",
+    "thumb": "bg_category_car_horn.png",
+    "shadowColor": "#16B1E2",
+    "backgroundColor": "#68DBFF",
+    "rewardRequest": 0,
+    "order_index": 7
+  },
+  {
+    "id": "countdown",
+    "name": "Countdown",
+    "thumb": "bg_category_countdown.png",
+    "shadowColor": "#0D9E63",
+    "backgroundColor": "#81E583",
+    "rewardRequest": 0,
+    "order_index": 22
+  },
+  {
+    "id": "door",
+    "name": "Door",
+    "thumb": "bg_category_door.png",
+    "shadowColor": "#823AD5",
+    "backgroundColor": "#AA68F6",
+    "rewardRequest": 0,
+    "order_index": 27
+  },
+  {
+    "id": "door_bell",
+    "name": "Door Bell",
+    "thumb": "bg_category_door_bell.png",
+    "shadowColor": "#823AD5",
+    "backgroundColor": "#AA68F6",
+    "rewardRequest": 0,
+    "order_index": 11
+  },
+  {
+    "id": "explosion",
+    "name": "Explosion",
+    "thumb": "bg_category_explosion.png",
+    "shadowColor": "#0A68C7",
+    "backgroundColor": "#75BAFF",
+    "rewardRequest": 0,
+    "order_index": 25
+  },
+  {
+    "id": "fart",
+    "name": "Fart",
+    "thumb": "bg_category_fart.png",
+    "shadowColor": "#C91515",
+    "backgroundColor": "#FF6A6A",
+    "rewardRequest": 0,
+    "order_index": 2
+  },
+  {
+    "id": "gun",
+    "name": "Gun",
+    "thumb": "bg_category_gun.png",
+    "shadowColor": "#AA68F6",
+    "backgroundColor": "#E095FF",
+    "rewardRequest": 0,
+    "order_index": 5
+  },
+  {
+    "id": "laugh",
+    "name": "Laugh",
+    "thumb": "bg_category_laugh.png",
+    "shadowColor": "#AA68F6",
+    "backgroundColor": "#E095FF",
+    "rewardRequest": 0,
+    "order_index": 13
+  },
+  {
+    "id": "male_cough",
+    "name": "Male Cough",
+    "thumb": "bg_category_man_cough.png",
+    "shadowColor": "#AA68F6",
+    "backgroundColor": "#E095FF",
+    "rewardRequest": 0,
+    "order_index": 21
+  },
+  {
+    "id": "male_sneeze",
+    "name": "Male Sneeze",
+    "thumb": "bg_category_man_sneeze.png",
+    "shadowColor": "#C91515",
+    "backgroundColor": "#FF6A6A",
+    "rewardRequest": 0,
+    "order_index": 18
+  },
+  {
+    "id": "meme",
+    "name": "Meme",
+    "thumb": "bg_category_meme.png",
+    "shadowColor": "#FCC200",
+    "backgroundColor": "#FFE281",
+    "rewardRequest": 0,
+    "order_index": 4
+  },
+  {
+    "id": "office",
+    "name": "Office",
+    "thumb": "bg_category_office.png",
+    "shadowColor": "#16B1E2",
+    "backgroundColor": "#68DBFF",
+    "rewardRequest": 0,
+    "order_index": 23
+  },
+  {
+    "id": "police",
+    "name": "Police",
+    "thumb": "bg_category_police.png",
+    "shadowColor": "#0D9E63",
+    "backgroundColor": "#81E583",
+    "rewardRequest": 0,
+    "order_index": 14
+  },
+  {
+    "id": "scary",
+    "name": "Scary",
+    "thumb": "bg_category_scary.png",
+    "shadowColor": "#FCC200",
+    "backgroundColor": "#FFE281",
+    "rewardRequest": 0,
+    "order_index": 12
+  },
+  {
+    "id": "scissors",
+    "name": "Scissors",
+    "thumb": "bg_category_scissors.png",
+    "shadowColor": "#16B1E2",
+    "backgroundColor": "#68DBFF",
+    "rewardRequest": 0,
+    "order_index": 15
+  },
+  {
+    "id": "snore",
+    "name": "Snore",
+    "thumb": "bg_category_snore.png",
+    "shadowColor": "#0A68C7",
+    "backgroundColor": "#75BAFF",
+    "rewardRequest": 0,
+    "order_index": 17
+  },
+  {
+    "id": "stun_gun",
+    "name": "Stun Gun",
+    "thumb": "bg_category_stungun.png",
+    "shadowColor": "#D65728",
+    "backgroundColor": "#FF926A",
+    "rewardRequest": 0,
+    "order_index": 16
+  },
+  {
+    "id": "thunder",
+    "name": "Thunder",
+    "thumb": "bg_category_thunder.png",
+    "shadowColor": "#C91515",
+    "backgroundColor": "#FF6A6A",
+    "rewardRequest": 0,
+    "order_index": 26
+  },
+  {
+    "id": "female_cough",
+    "name": "Female Cough",
+    "thumb": "bg_category_woman_cough.png",
+    "shadowColor": "#FCC200",
+    "backgroundColor": "#FFE281",
+    "rewardRequest": 0,
+    "order_index": 20
+  },
+  {
+    "id": "female_sneeze",
+    "name": "Female Sneeze",
+    "thumb": "bg_category_woman_sneeze.png",
+    "shadowColor": "#C91515",
+    "backgroundColor": "#FF6A6A",
+    "rewardRequest": 0,
+    "order_index": 10
+  }
+]

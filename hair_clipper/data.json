@@ -1,0 +1,74 @@
+[
+  {
+    "category_id": "hair_clipper",
+    "thumb": "bg_hairclipper_babylisspro.png",
+    "audio": "hairclipper_1.mp3",
+    "name": "Babysliss",
+    "rewardRequest": 0,
+    "name_str_id": "hair_clipper_sound_name",
+    "order_index": 3
+  },
+  {
+    "category_id": "hair_clipper",
+    "thumb": "bg_hairclipper_beardtrimmer.png",
+    "audio": "hairclipper_2.mp3",
+    "name": "Beard Trimmer",
+    "rewardRequest": 0,
+    "name_str_id": "hair_clipper_sound_name",
+    "order_index": 4
+  },
+  {
+    "category_id": "hair_clipper",
+    "thumb": "bg_hairclipper_haokryhair.png",
+    "audio": "hairclipper_3.mp3",
+    "name": "Haokry Hair",
+    "rewardRequest": 0,
+    "name_str_id": "hair_clipper_sound_name",
+    "order_index": 5
+  },
+  {
+    "category_id": "hair_clipper",
+    "thumb": "bg_hairclipper_noval.png",
+    "audio": "hairclipper_4.mp3",
+    "name": "Noval",
+    "rewardRequest": 0,
+    "name_str_id": "hair_clipper_sound_name",
+    "order_index": 1
+  },
+  {
+    "category_id": "hair_clipper",
+    "thumb": "bg_hairclipper_remingtonhC4250.png",
+    "audio": "hairclipper_5.mp3",
+    "name": "C4250",
+    "rewardRequest": 0,
+    "name_str_id": "hair_clipper_sound_name",
+    "order_index": 2
+  },
+  {
+    "category_id": "hair_clipper",
+    "thumb": "bg_hairclipper_wahl.png",
+    "audio": "hairclipper_6.mp3",
+    "name": "Wahl",
+    "rewardRequest": 0,
+    "name_str_id": "hair_clipper_sound_name",
+    "order_index": 6
+  },
+  {
+    "category_id": "hair_clipper",
+    "thumb": "bg_hairclipper_wahlcolourpro.png",
+    "audio": "hairclipper_7.mp3",
+    "name": "Wahl Pro",
+    "rewardRequest": 0,
+    "name_str_id": "hair_clipper_sound_name",
+    "order_index": 7
+  },
+  {
+    "category_id": "hair_clipper",
+    "thumb": "bg_hairclipper_wahlpeanut.png",
+    "audio": "hairclipper_8.mp3",
+    "name": "Wahl Peanut",
+    "rewardRequest": 0,
+    "name_str_id": "hair_clipper_sound_name",
+    "order_index": 8
+  }
+]

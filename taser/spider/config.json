@@ -1,0 +1,185 @@
+{
+  "fireSpeed": 150,
+  "bulletsCapacity": 50,
+  "reloadTime": 2000,
+  "flashTime": 150,
+  "layers": [
+    {
+      "class": "SimpleLayer",
+      "models": [
+        {
+          "class": "GunPart",
+          "graphic": {
+            "fillColor": "#FFFFFF"
+          },
+          "changeColor": true,
+          "alpha": 0,
+          "effects": [
+            {
+              "class": "AlphaEffect",
+              "minAmp": 0,
+              "maxAmp": 0,
+              "speed": 20,
+              "alternativeAmp": -1,
+              "activateBy": "none",
+              "script": [
+                {
+                  "activateBy": "trigger",
+                  "fromValue": 0,
+                  "toValue": 1,
+                  "timeKeeping": 70
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "SimpleLayer",
+      "models": [
+        {
+          "class": "GunAudio",
+          "audio": {
+            "overrideSound": true,
+            "path": "fire.ogg",
+            "stopByInput": "up",
+            "activateBy": "trigger"
+          }
+        },
+        {
+          "class": "GunAudio",
+          "audio": {
+            "path": "out_of_ammo.ogg",
+            "basePath": "effect_sounds",
+            "activateBy": "empty"
+          }
+        },
+        {
+          "class": "GunPart",
+          "graphic": {
+            "image": "gun.png"
+          },
+          "positionPercent": [
+            0,
+            0
+          ],
+          "croppingRadius": 0.5
+        },
+        {
+          "class": "GunPart",
+          "blendingFunc": [
+            "GL_SRC_ALPHA",
+            "GL_ONE"
+          ],
+          "changeColor": true,
+          "croppingRadius": 0.5,
+          "positionPercent": [
+            0,
+            0
+          ],
+          "graphic": {
+            "fireEffect": true,
+            "atlas": "effect_glow.atlas",
+            "atlasNum": 3,
+            "fps": 20,
+            "activateBy": "trigger_hold",
+            "delay": 500
+          }
+        },
+        {
+          "class": "GunPart",
+          "blendingFunc": [
+            "GL_SRC_ALPHA",
+            "GL_ONE"
+          ],
+          "croppingRadius": 0.5,
+          "graphic": {
+            "atlas": "effect.atlas",
+            "atlasNum": 3,
+            "fps": 20,
+            "activateBy": "trigger_hold",
+            "delay": 500
+          }
+        }
+      ]
+    },
+    {
+      "class": "SimpleLayer",
+      "models": [
+        {
+          "class": "LightingParticle",
+          "blendingFunc": [
+            "GL_SRC_ALPHA",
+            "GL_ONE"
+          ],
+          "croppingRadius": 0.15,
+          "changeColor": true,
+          "duration": 500,
+          "activateBy": "trigger_hold",
+          "graphic": {
+            "fireEffect": true,
+            "basePath": "fire_effect/bolt_taser",
+            "atlas": "bolt.atlas",
+            "atlasNum": 9,
+            "fps": 20
+          },
+          "positionPercent": [
+            -0.16,
+            0.25
+          ],
+          "contactPoint": [
+            0.16,
+            0.25
+          ],
+          "interruptFrame": true
+        },
+        {
+          "class": "LightingParticle",
+          "blendingFunc": [
+            "GL_SRC_ALPHA",
+            "GL_ONE"
+          ],
+          "croppingRadius": 0.15,
+          "positionPercent": [
+            0.16,
+            0.25
+          ],
+          "contactPoint": [
+            -0.16,
+            0.25
+          ],
+          "changeColor": true,
+          "duration": 500,
+          "activateBy": "trigger_hold",
+          "graphic": {
+            "fireEffect": true,
+            "basePath": "fire_effect/bolt_taser",
+            "atlas": "bolt.atlas",
+            "atlasNum": 9,
+            "fps": 20
+          },
+          "interruptFrame": true
+        }
+      ]
+    },
+    {
+      "class": "SimpleLayer",
+      "models": [
+        {
+          "class": "TaserToggleButton",
+          "positionPercent": [
+            0,
+            0.1
+          ],
+          "changeColor": false,
+          "graphic": {
+            "atlas": "toggle_button.atlas",
+            "basePath": "other",
+            "atlasNum": 2
+          }
+        }
+      ]
+    }
+  ]
+}

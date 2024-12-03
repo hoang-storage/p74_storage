@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cockroaches",
+    "name": "Cockroaches",
+    "thumb": "thumb_cockroach.gif",
+    "Gif": "cockroach.gif",
+    "order_index": 1
+  },
+  {
+    "id": "snake",
+    "name": "Snake",
+    "thumb": "thumb_snake.gif",
+    "Gif": "snake.gif",
+    "order_index": 2
+  },
+  {
+    "id": "spider",
+    "name": "Spider",
+    "thumb": "thumb_spider.gif",
+    "Gif": "spider.gif",
+    "order_index": 3
+  },
+  {
+    "id": "bug",
+    "name": "Bug",
+    "thumb": "thumb_bug.gif",
+    "Gif": "bug.gif",
+    "order_index": 4
+  },
+  {
+    "id": "ant",
+    "name": "Ant",
+    "thumb": "thumb_ant.gif",
+    "Gif": "ant.gif",
+    "order_index": 6
+  }
+]
