@@ -3,25 +3,97 @@
     "category_id": "data_bomb",
     "thumb": "1.png",
     "audio": "tnt.wav",
-    "name": "1",
+    "name": "Timer",
     "rewardRequest": 0,
     "name_str_id": "time_bomb_sound_name",
     "order_index": 1
   }, {
     "category_id": "data_bomb",
     "thumb": "2.png",
-    "audio": "other.wav",
-    "name": "2",
+    "audio": "tnt.wav",
+    "name": "Blast",
     "rewardRequest": 0,
     "name_str_id": "time_bomb_sound_name",
     "order_index": 2
   }, {
     "category_id": "data_bomb",
     "thumb": "3.png",
-    "audio": "grenade.wav",
-    "name": "3",
+    "audio": "tnt.wav",
+    "name": "Tickr",
     "rewardRequest": 0,
     "name_str_id": "time_bomb_sound_name",
     "order_index": 3
+  }, {
+    "category_id": "data_bomb",
+    "thumb": "4.png",
+    "audio": "grenade.wav",
+    "name": "Count",
+    "rewardRequest": 0,
+    "name_str_id": "time_bomb_sound_name",
+    "order_index": 4
+  }, {
+    "category_id": "data_bomb",
+    "thumb": "5.png",
+    "audio": "other.wav",
+    "name": "Deton",
+    "rewardRequest": 0,
+    "name_str_id": "time_bomb_sound_name",
+    "order_index": 5
+  }, {
+    "category_id": "data_bomb",
+    "thumb": "6.png",
+    "audio": "grenade.wav",
+    "name": "Boom",
+    "rewardRequest": 0,
+    "name_str_id": "time_bomb_sound_name",
+    "order_index": 6
+  }, {
+    "category_id": "data_bomb",
+    "thumb": "7.png",
+    "audio": "grenade.wav",
+    "name": "Click",
+    "rewardRequest": 0,
+    "name_str_id": "time_bomb_sound_name",
+    "order_index": 7
+  }, {
+    "category_id": "data_bomb",
+    "thumb": "8.png",
+    "audio": "other.wav",
+    "name": "Fuse",
+    "rewardRequest": 0,
+    "name_str_id": "time_bomb_sound_name",
+    "order_index": 8
+  }, {
+    "category_id": "data_bomb",
+    "thumb": "9.png",
+    "audio": "grenade.wav",
+    "name": "Clock",
+    "rewardRequest": 0,
+    "name_str_id": "time_bomb_sound_name",
+    "order_index": 9
+  }, {
+    "category_id": "data_bomb",
+    "thumb": "10.png",
+    "audio": "grenade.wav",
+    "name": "Fusey",
+    "rewardRequest": 0,
+    "name_str_id": "time_bomb_sound_name",
+    "order_index": 10
+  }, {
+    "category_id": "data_bomb",
+    "thumb": "11.png",
+    "audio": "other.wav",
+    "name": "Tick",
+    "rewardRequest": 0,
+    "name_str_id": "time_bomb_sound_name",
+    "order_index": 11
+  }, {
+    "category_id": "data_bomb",
+    "thumb": "12.png",
+    "audio": "tnt.wav",
+    "name": "Chime",
+    "rewardRequest": 0,
+    "name_str_id": "time_bomb_sound_name",
+    "order_index": 12
   }
 ]
